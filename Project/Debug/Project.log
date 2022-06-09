@@ -1,0 +1,36 @@
+﻿  main.c
+D:\raycasting\raycasting-c\Project\main.c(68,22): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+D:\raycasting\raycasting-c\Project\main.c(82,22): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+D:\raycasting\raycasting-c\Project\main.c(88,22): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+D:\raycasting\raycasting-c\Project\main.c(113,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\raycasting\raycasting-c\Project\main.c(115,39): warning C4305: '=': truncation from 'double' to 'float'
+D:\raycasting\raycasting-c\Project\main.c(143,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(144,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(156,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(157,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(182,40): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(183,40): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(184,73): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(186,5): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(171,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(193,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(195,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(205,63): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(232,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(236,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(242,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(279,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(283,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(289,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(356,41): warning C4305: '+=': truncation from 'double' to 'float'
+D:\raycasting\raycasting-c\Project\main.c(351,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(369,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(386,44): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(387,44): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(388,52): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(390,9): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(451,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(454,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(479,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\raycasting\raycasting-c\Project\main.c(533,12): warning C4026: function declared with formal parameter list
+  Project.vcxproj -> D:\raycasting\raycasting-c\Project\Debug\Project.exe

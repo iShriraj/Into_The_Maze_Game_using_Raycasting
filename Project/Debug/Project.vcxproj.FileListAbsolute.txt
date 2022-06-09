@@ -1,0 +1,2 @@
+D:\raycasting\raycasting-c\Project\Debug\Project.exe
+D:\raycasting\raycasting-c\Project\Debug\Project.pdb
